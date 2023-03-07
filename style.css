@@ -1,0 +1,93 @@
+#logo{
+    color: rgb(67, 4, 100);
+}
+.subtitle{
+    font-size: 30px;
+    /* border: solid; */
+    margin-bottom: 0%;
+
+}
+#subtitle1{
+    font-weight: bolder;
+    font-size: 50px;
+    
+}
+#button0{
+    border-color: rgb(67, 4, 100);
+    border-radius: 5px;
+    background-color: rgb(67, 4, 100);
+    color: white;
+    margin-bottom: 5px;
+    padding: 2px 8px;
+}
+#button1{
+    border-color: rgb(67, 4, 100);
+    border-radius: 8px;
+    background-color: rgb(67, 4, 100);
+    color: white;
+    padding: 10px 20px;
+}
+
+#image1{
+    width: 60%;
+    height: 60%;
+    margin: 45px 250px;
+    border-radius: 12px;
+    /* border: solid; */
+}
+.firstpage{
+    border: solid;
+    display: flex;
+}
+#headline{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.blocks{
+    margin-bottom: 5px;
+    
+}
+.block1{
+    display: flex;
+    align-items: end;
+margin-bottom: 5%;
+}
+#image2{
+    width: 48%;
+    height: 62%;
+}
+#image3{
+    width: 29%;
+    height: 60%;
+}
+#image4{
+    width: 24%;
+    height: 55%;
+}
+#button2{
+    border-color: rgb(67, 4, 100);
+    border-radius: 8px;
+    background-color:rgb(67, 4, 100);
+    color: white;
+    padding: 10px 20px;
+    display: inline-flex;
+    margin-left: 50%;
+
+    /* padding: 5px 15px 5px 15px; */
+}
+.lastblock{
+    background-color: rgb(67, 4, 100);
+    color: white;
+    padding: 10px 80px 0 20px ;
+    display: flex;
+    justify-content: space-between;
+}
+.lastblock ul li{
+list-style: none;
+
+}
+#image5{
+    width: 13%;
+    height:48%;
+    
+}
